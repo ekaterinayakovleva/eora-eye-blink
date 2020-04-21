@@ -1,0 +1,11 @@
+# EORA test eye blink inference
+
+# Launch
+
+install dependencies from requirements.txt
+
+````
+cd app/
+python3 main.py
+
+````
